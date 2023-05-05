@@ -1,0 +1,16 @@
+20230505-05:43:03: Session FIXT.1.1:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:55:00-UTC
+20230505-05:43:03: Created session: FIXT.1.1:SERVER->CLIENT
+20230505-05:48:36: Session FIXT.1.1:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:55:00-UTC
+20230505-05:48:36: Created session: FIXT.1.1:SERVER->CLIENT
+20230505-05:48:55: Session FIXT.1.1:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:55:00-UTC
+20230505-05:48:55: Created session: FIXT.1.1:SERVER->CLIENT
+20230505-06:14:31: Session FIXT.1.1:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:55:00-UTC
+20230505-06:14:31: Created session: FIXT.1.1:SERVER->CLIENT
+20230505-06:22:45: Session FIXT.1.1:SERVER->CLIENT schedule is daily, 00:00:00-UTC - 23:55:00-UTC
+20230505-06:22:45: Created session: FIXT.1.1:SERVER->CLIENT
+20230505-06:27:45: Accepting session FIXT.1.1:SERVER->CLIENT from /127.0.0.1:58212
+20230505-06:27:45: Acceptor heartbeat set to 30 seconds
+20230505-06:27:45: Setting DefaultApplVerID (1137=8) from Logon
+20230505-06:27:45: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20230505-06:27:46: Received logon
+20230505-06:27:46: Responding to Logon request
